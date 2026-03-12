@@ -1,0 +1,1 @@
+This project is created to build AI applications using Generative AI tools - E-commerce Platform
