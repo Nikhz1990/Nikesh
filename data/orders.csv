@@ -1,0 +1,4 @@
+order_id,status,delivery_date
+1001,Shipped,2026-03-15
+1002,Delivered,2026-03-10
+1003,Processing,2026-03-18
